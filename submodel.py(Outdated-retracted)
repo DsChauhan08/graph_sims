@@ -15,7 +15,7 @@ The simulation includes:
 6. Comprehensive visualization and sensitivity analysis
 
 Author: Dhananjay Singh Chauhan
-Date: August 2025
+Date: Jan 2025
 """
 
 import numpy as np
